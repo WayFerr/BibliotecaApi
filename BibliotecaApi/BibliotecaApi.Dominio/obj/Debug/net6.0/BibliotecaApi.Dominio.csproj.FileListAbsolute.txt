@@ -1,0 +1,14 @@
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\bin\Debug\net6.0\BibliotecaApi.Dominio.deps.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\bin\Debug\net6.0\BibliotecaApi.Dominio.runtimeconfig.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\bin\Debug\net6.0\BibliotecaApi.Dominio.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\bin\Debug\net6.0\BibliotecaApi.Dominio.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.csproj.AssemblyReference.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.AssemblyInfoInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.AssemblyInfo.cs
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.csproj.CoreCompileInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\refint\BibliotecaApi.Dominio.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\BibliotecaApi.Dominio.genruntimeconfig.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Dominio\obj\Debug\net6.0\ref\BibliotecaApi.Dominio.dll

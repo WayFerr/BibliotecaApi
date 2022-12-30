@@ -1,0 +1,17 @@
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Infra.deps.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Infra.runtimeconfig.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Infra.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Infra.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Dominio.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\bin\Debug\net6.0\BibliotecaApi.Dominio.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.csproj.AssemblyReference.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.AssemblyInfoInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.AssemblyInfo.cs
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.csproj.CopyComplete
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\refint\BibliotecaApi.Infra.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\BibliotecaApi.Infra.genruntimeconfig.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Infra\obj\Debug\net6.0\ref\BibliotecaApi.Infra.dll

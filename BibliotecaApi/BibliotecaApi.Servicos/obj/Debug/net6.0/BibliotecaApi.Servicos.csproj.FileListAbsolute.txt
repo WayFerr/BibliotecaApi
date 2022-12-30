@@ -1,0 +1,14 @@
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Servicos.deps.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Servicos.runtimeconfig.json
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Servicos.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Servicos.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.csproj.AssemblyReference.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.AssemblyInfoInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.AssemblyInfo.cs
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.csproj.CoreCompileInputs.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\refint\BibliotecaApi.Servicos.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.genruntimeconfig.cache
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\ref\BibliotecaApi.Servicos.dll

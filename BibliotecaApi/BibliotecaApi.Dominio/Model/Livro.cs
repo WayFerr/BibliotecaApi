@@ -21,7 +21,7 @@ namespace BibliotecaApi.Dominio.Model
         public long AutorId { get; set; }
         [ForeignKey("EditoraId")]
         public long EditoraId { get; set; }
-        public virtual Autor Autor { get; set; }
-        public virtual Editora Editora { get; set; }
+        public Autor Autor { get; set; }
+        public Editora Editora { get; set; }
     }
 }
