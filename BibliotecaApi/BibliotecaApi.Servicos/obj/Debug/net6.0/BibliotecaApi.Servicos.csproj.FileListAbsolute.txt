@@ -12,3 +12,6 @@ C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.pdb
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.genruntimeconfig.cache
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\ref\BibliotecaApi.Servicos.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Dominio.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\bin\Debug\net6.0\BibliotecaApi.Dominio.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi.Servicos\obj\Debug\net6.0\BibliotecaApi.Servicos.csproj.CopyComplete

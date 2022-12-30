@@ -8,13 +8,19 @@ using System.Threading.Tasks;
 
 namespace BibliotecaApi.Dominio.Model
 {
+    [Table("Livros")]
     public class Livro
     {
         [Key]
         public long Id { get; set; }
+        [Required]
+        [StringLength(150)]
         public string Nome { get; set; }
-        public long Paginas { get; set; }
+        [Column(TypeName = "decimal(8,0)")]
+        public decimal Paginas { get; set; }
+        [StringLength(500)]
         public string Sinopse { get; set; }
+        [StringLength(60)]
         public string Genero { get; set; }
         public DateTime DataPublicacao { get; set; }
         [ForeignKey("AutorId")]

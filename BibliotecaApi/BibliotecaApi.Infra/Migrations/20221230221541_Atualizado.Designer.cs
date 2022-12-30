@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BibliotecaApi.Infra.Migrations
 {
     [DbContext(typeof(BibliotecaApiContext))]
-    [Migration("20221229193042_inicial")]
-    partial class inicial
+    [Migration("20221230221541_Atualizado")]
+    partial class Atualizado
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -29,11 +29,13 @@ namespace BibliotecaApi.Infra.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(80)
+                        .HasColumnType("varchar(80)");
 
                     b.Property<string>("Sobre")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(400)
+                        .HasColumnType("varchar(400)");
 
                     b.HasKey("Id");
 
@@ -48,7 +50,8 @@ namespace BibliotecaApi.Infra.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(80)
+                        .HasColumnType("varchar(80)");
 
                     b.HasKey("Id");
 
@@ -72,18 +75,21 @@ namespace BibliotecaApi.Infra.Migrations
 
                     b.Property<string>("Genero")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(60)
+                        .HasColumnType("varchar(60)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(150)
+                        .HasColumnType("varchar(150)");
 
-                    b.Property<long>("Paginas")
-                        .HasColumnType("bigint");
+                    b.Property<decimal>("Paginas")
+                        .HasColumnType("decimal(8,0)");
 
                     b.Property<string>("Sinopse")
                         .IsRequired()
-                        .HasColumnType("longtext");
+                        .HasMaxLength(500)
+                        .HasColumnType("varchar(500)");
 
                     b.HasKey("Id");
 

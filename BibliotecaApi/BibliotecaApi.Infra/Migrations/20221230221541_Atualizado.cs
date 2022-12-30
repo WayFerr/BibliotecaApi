@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace BibliotecaApi.Infra.Migrations
 {
-    public partial class inicial : Migration
+    public partial class Atualizado : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -19,9 +19,9 @@ namespace BibliotecaApi.Infra.Migrations
                 {
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Nome = table.Column<string>(type: "longtext", nullable: false)
+                    Nome = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Sobre = table.Column<string>(type: "longtext", nullable: false)
+                    Sobre = table.Column<string>(type: "varchar(400)", maxLength: 400, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
@@ -36,7 +36,7 @@ namespace BibliotecaApi.Infra.Migrations
                 {
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Nome = table.Column<string>(type: "longtext", nullable: false)
+                    Nome = table.Column<string>(type: "varchar(80)", maxLength: 80, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4")
                 },
                 constraints: table =>
@@ -51,12 +51,12 @@ namespace BibliotecaApi.Infra.Migrations
                 {
                     Id = table.Column<long>(type: "bigint", nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    Nome = table.Column<string>(type: "longtext", nullable: false)
+                    Nome = table.Column<string>(type: "varchar(150)", maxLength: 150, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Paginas = table.Column<long>(type: "bigint", nullable: false),
-                    Sinopse = table.Column<string>(type: "longtext", nullable: false)
+                    Paginas = table.Column<decimal>(type: "decimal(8,0)", nullable: false),
+                    Sinopse = table.Column<string>(type: "varchar(500)", maxLength: 500, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
-                    Genero = table.Column<string>(type: "longtext", nullable: false)
+                    Genero = table.Column<string>(type: "varchar(60)", maxLength: 60, nullable: false)
                         .Annotation("MySql:CharSet", "utf8mb4"),
                     DataPublicacao = table.Column<DateTime>(type: "datetime(6)", nullable: false),
                     AutorId = table.Column<long>(type: "bigint", nullable: false),
