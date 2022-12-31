@@ -21,6 +21,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BibliotecaApi.Infra\BibliotecaApi.Infra.csproj" />
+    <ProjectReference Include="..\BibliotecaApi.Servicos\BibliotecaApi.Servicos.csproj" />
   </ItemGroup>
 
 </Project>

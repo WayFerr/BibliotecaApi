@@ -1,6 +1,8 @@
 using BibliotecaApi.Dominio.Interface;
 using BibliotecaApi.Infra;
 using BibliotecaApi.Infra._4._1___Infra;
+using BibliotecaApi.Servicos.Interface;
+using BibliotecaApi.Servicos.Servicos;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,6 +22,10 @@ options.UseMySql(mySqlConnection, ServerVersion.AutoDetect(mySqlConnection)));
 builder.Services.AddScoped<IAutorRepository, AutorRepository>();
 builder.Services.AddScoped<IEditoraRepository, EditoraRepository>();
 builder.Services.AddScoped<ILivroRepository, LivroRepository>();
+
+builder.Services.AddScoped<IAutorServico, AutorServico>();
+builder.Services.AddScoped<IEditoraServico, EditoraServico>();
+builder.Services.AddScoped<ILivroServico, LivroServico>();
 
 var app = builder.Build();
 
