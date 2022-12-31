@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="4.1 - Infra\" />
     <Folder Include="4.2 - CrossCutting\" />
   </ItemGroup>
 
