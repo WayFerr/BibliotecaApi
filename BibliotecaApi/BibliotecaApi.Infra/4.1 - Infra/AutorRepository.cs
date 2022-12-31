@@ -1,14 +1,10 @@
-﻿using BibliotecaApi.Dominio.Model;
+﻿using BibliotecaApi.Dominio.Interface;
+using BibliotecaApi.Dominio.Model;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BibliotecaApi.Infra._4._1___Infra
 {
-    public class AutorRepository
+    public class AutorRepository : IAutorRepository
     {
         private readonly BibliotecaApiContext _context;
 
