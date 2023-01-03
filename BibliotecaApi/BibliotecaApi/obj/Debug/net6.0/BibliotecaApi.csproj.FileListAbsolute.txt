@@ -37,3 +37,7 @@ C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\obj\Debug\ne
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\obj\Debug\net6.0\BibliotecaApi.pdb
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\obj\Debug\net6.0\BibliotecaApi.genruntimeconfig.cache
 C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\obj\Debug\net6.0\ref\BibliotecaApi.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\bin\Debug\net6.0\BibliotecaApi.Servicos.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\bin\Debug\net6.0\BibliotecaApi.Servicos.pdb
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Projetos\BibliotecaApi\BibliotecaApi\BibliotecaApi\BibliotecaApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

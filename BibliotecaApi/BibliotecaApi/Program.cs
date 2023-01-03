@@ -1,4 +1,6 @@
 using BibliotecaApi.Dominio.Interface;
+using BibliotecaApi.Dominio.Model;
+using BibliotecaApi.Dominio.ViewModel;
 using BibliotecaApi.Infra;
 using BibliotecaApi.Infra._4._1___Infra;
 using BibliotecaApi.Servicos.Interface;
@@ -26,6 +28,13 @@ builder.Services.AddScoped<ILivroRepository, LivroRepository>();
 builder.Services.AddScoped<IAutorServico, AutorServico>();
 builder.Services.AddScoped<IEditoraServico, EditoraServico>();
 builder.Services.AddScoped<ILivroServico, LivroServico>();
+
+builder.Services.AddAutoMapper(mapper =>
+{
+    mapper.CreateMap<AutorViewModel, Autor>().ReverseMap();
+    mapper.CreateMap<EditoraViewModel, Editora>().ReverseMap();
+    mapper.CreateMap<LivroViewModel, Livro>().ReverseMap();
+});
 
 var app = builder.Build();
 

@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u4CnPvhx2ETEWdzYOeAmfruOUwSlk2U13oA56+16EDgNoTthQIlY2VNzuFJ9c/GFxqwkRlSkD20VCmYX6AsuBw==",
+  "dgSpecHash": "3y4BP6KoJHBPCghe/1kBq7N9jgcuEkkdcGJbOv7ng093d/G0w22NNVP6m9nF1EeemQw4RQeoo3QgdXwLZIgZdg==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\BibliotecaApi\\BibliotecaApi\\BibliotecaApi\\BibliotecaApi\\BibliotecaApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\WaFerr\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\WaFerr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\WaFerr\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
